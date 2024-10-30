@@ -70,7 +70,7 @@ const Game24 = () => {
       <div className="max-w-2xl mx-auto">
         <h1 className="text-3xl font-bold text-center mb-4">24 Game</h1>
         
-        <div className="bg-blue-100 border-l-4 border-blue-500 p-4 mb-6">
+        <div className="bg-blue-500 border-l-4 border-blue-800 text-white p-4 mb-6">
           <p>
             Try to make 24 using these four numbers with basic arithmetic (+, -, ×, ÷).
             You must use each number exactly once. You can use parentheses.
